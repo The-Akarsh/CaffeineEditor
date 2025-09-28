@@ -13,7 +13,7 @@
         <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <javafx.version>24.0.2 </javafx.version>
-        <exec.mainClass>org.oopseditor.CaffeineTextEditor.CaffeineApplication</exec.mainClass>
+        <exec.mainClass>CaffeineApplication</exec.mainClass>
     </properties>
 
     <dependencies>
